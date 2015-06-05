@@ -1,0 +1,9 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\bin\Debug\TestTestTest.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\bin\Debug\TestTestTest.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\bin\Debug\TestTestTest.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\obj\Debug\TestTestTest.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\obj\Debug\TestTestTest.Form1.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\obj\Debug\TestTestTest.Properties.Resources.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\obj\Debug\TestTestTest.csproj.GenerateResource.Cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\obj\Debug\TestTestTest.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TestTestTest\TestTestTest\obj\Debug\TestTestTest.pdb

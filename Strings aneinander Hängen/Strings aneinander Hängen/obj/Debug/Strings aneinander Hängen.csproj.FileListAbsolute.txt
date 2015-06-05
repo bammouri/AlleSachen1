@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Strings aneinander Hängen\Strings aneinander Hängen\bin\Debug\Strings aneinander Hängen.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Strings aneinander Hängen\Strings aneinander Hängen\bin\Debug\Strings aneinander Hängen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Strings aneinander Hängen\Strings aneinander Hängen\bin\Debug\Strings aneinander Hängen.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Strings aneinander Hängen\Strings aneinander Hängen\obj\Debug\Strings aneinander Hängen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Strings aneinander Hängen\Strings aneinander Hängen\obj\Debug\Strings aneinander Hängen.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Strings aneinander Hängen\Strings aneinander Hängen\obj\Debug\Strings aneinander Hängen.csprojResolveAssemblyReference.cache

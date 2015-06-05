@@ -1,0 +1,5 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Hexadezimalzahlen\Hexadezimalzahlen\bin\Debug\Hexadezimalzahlen.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Hexadezimalzahlen\Hexadezimalzahlen\bin\Debug\Hexadezimalzahlen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Hexadezimalzahlen\Hexadezimalzahlen\bin\Debug\Hexadezimalzahlen.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Hexadezimalzahlen\Hexadezimalzahlen\obj\Debug\Hexadezimalzahlen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Hexadezimalzahlen\Hexadezimalzahlen\obj\Debug\Hexadezimalzahlen.pdb

@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Gleitkommazahlen in Ganze\Umwandlung von Gleitkommazahlen in Ganze\bin\Debug\Umwandlung von Gleitkommazahlen in Ganze.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Gleitkommazahlen in Ganze\Umwandlung von Gleitkommazahlen in Ganze\bin\Debug\Umwandlung von Gleitkommazahlen in Ganze.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Gleitkommazahlen in Ganze\Umwandlung von Gleitkommazahlen in Ganze\bin\Debug\Umwandlung von Gleitkommazahlen in Ganze.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Gleitkommazahlen in Ganze\Umwandlung von Gleitkommazahlen in Ganze\obj\Debug\Umwandlung von Gleitkommazahlen in Ganze.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Gleitkommazahlen in Ganze\Umwandlung von Gleitkommazahlen in Ganze\obj\Debug\Umwandlung von Gleitkommazahlen in Ganze.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Umwandlung von Gleitkommazahlen in Ganze\Umwandlung von Gleitkommazahlen in Ganze\obj\Debug\Umwandlung von Gleitkommazahlen in Ganze.csprojResolveAssemblyReference.cache

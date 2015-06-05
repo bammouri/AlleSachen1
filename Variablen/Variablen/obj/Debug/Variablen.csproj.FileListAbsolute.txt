@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Variablen\Variablen\bin\Debug\Variablen.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Variablen\Variablen\bin\Debug\Variablen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Variablen\Variablen\bin\Debug\Variablen.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Variablen\Variablen\obj\Debug\Variablen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Variablen\Variablen\obj\Debug\Variablen.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\Variablen\Variablen\obj\Debug\Variablen.csprojResolveAssemblyReference.cache

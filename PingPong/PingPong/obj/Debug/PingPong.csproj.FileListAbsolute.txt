@@ -1,0 +1,4 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\PingPong\PingPong\bin\Debug\PingPong.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache

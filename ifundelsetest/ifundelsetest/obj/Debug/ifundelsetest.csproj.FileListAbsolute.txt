@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\ifundelsetest\ifundelsetest\bin\Debug\ifundelsetest.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\ifundelsetest\ifundelsetest\obj\Debug\ifundelsetest.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\ifundelsetest\ifundelsetest\bin\Debug\ifundelsetest.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\ifundelsetest\ifundelsetest\bin\Debug\ifundelsetest.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\ifundelsetest\ifundelsetest\obj\Debug\ifundelsetest.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\ifundelsetest\ifundelsetest\obj\Debug\ifundelsetest.pdb

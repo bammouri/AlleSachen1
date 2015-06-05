@@ -1,0 +1,5 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Beep\Beep\bin\Debug\Beep.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Beep\Beep\bin\Debug\Beep.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Beep\Beep\bin\Debug\Beep.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Beep\Beep\obj\Debug\Beep.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Beep\Beep\obj\Debug\Beep.pdb

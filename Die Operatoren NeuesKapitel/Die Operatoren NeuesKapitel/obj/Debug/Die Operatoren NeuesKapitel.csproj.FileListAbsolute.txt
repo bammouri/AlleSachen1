@@ -1,0 +1,5 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Die Operatoren NeuesKapitel\Die Operatoren NeuesKapitel\bin\Debug\Die Operatoren NeuesKapitel.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Die Operatoren NeuesKapitel\Die Operatoren NeuesKapitel\bin\Debug\Die Operatoren NeuesKapitel.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Die Operatoren NeuesKapitel\Die Operatoren NeuesKapitel\bin\Debug\Die Operatoren NeuesKapitel.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Die Operatoren NeuesKapitel\Die Operatoren NeuesKapitel\obj\Debug\Die Operatoren NeuesKapitel.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Die Operatoren NeuesKapitel\Die Operatoren NeuesKapitel\obj\Debug\Die Operatoren NeuesKapitel.pdb

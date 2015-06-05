@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\ArraysNeusKapitelCSharp\ArraysNeusKapitelCSharp\bin\Debug\ArraysNeusKapitelCSharp.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\ArraysNeusKapitelCSharp\ArraysNeusKapitelCSharp\bin\Debug\ArraysNeusKapitelCSharp.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\ArraysNeusKapitelCSharp\ArraysNeusKapitelCSharp\bin\Debug\ArraysNeusKapitelCSharp.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\ArraysNeusKapitelCSharp\ArraysNeusKapitelCSharp\obj\Debug\ArraysNeusKapitelCSharp.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\ArraysNeusKapitelCSharp\ArraysNeusKapitelCSharp\obj\Debug\ArraysNeusKapitelCSharp.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\ArraysNeusKapitelCSharp\ArraysNeusKapitelCSharp\obj\Debug\ArraysNeusKapitelCSharp.pdb

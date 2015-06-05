@@ -1,0 +1,9 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\bin\Debug\TestPK.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\bin\Debug\TestPK.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\bin\Debug\TestPK.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\obj\Debug\TestPK.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\obj\Debug\TestPK.Form1.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\obj\Debug\TestPK.Properties.Resources.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\obj\Debug\TestPK.csproj.GenerateResource.Cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\obj\Debug\TestPK.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TestPK\TestPK\obj\Debug\TestPK.pdb

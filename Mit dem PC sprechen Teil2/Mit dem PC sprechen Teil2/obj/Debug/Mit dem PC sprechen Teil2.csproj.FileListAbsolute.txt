@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Mit dem PC sprechen Teil2\Mit dem PC sprechen Teil2\bin\Debug\Mit dem PC sprechen Teil2.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Mit dem PC sprechen Teil2\Mit dem PC sprechen Teil2\bin\Debug\Mit dem PC sprechen Teil2.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Mit dem PC sprechen Teil2\Mit dem PC sprechen Teil2\bin\Debug\Mit dem PC sprechen Teil2.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Mit dem PC sprechen Teil2\Mit dem PC sprechen Teil2\obj\Debug\Mit dem PC sprechen Teil2.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\Mit dem PC sprechen Teil2\Mit dem PC sprechen Teil2\obj\Debug\Mit dem PC sprechen Teil2.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Mit dem PC sprechen Teil2\Mit dem PC sprechen Teil2\obj\Debug\Mit dem PC sprechen Teil2.pdb

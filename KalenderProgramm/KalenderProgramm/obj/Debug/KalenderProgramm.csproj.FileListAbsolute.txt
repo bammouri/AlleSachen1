@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\KalenderProgramm\KalenderProgramm\bin\Debug\KalenderProgramm.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\KalenderProgramm\KalenderProgramm\obj\Debug\KalenderProgramm.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\KalenderProgramm\KalenderProgramm\bin\Debug\KalenderProgramm.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\KalenderProgramm\KalenderProgramm\bin\Debug\KalenderProgramm.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\KalenderProgramm\KalenderProgramm\obj\Debug\KalenderProgramm.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\KalenderProgramm\KalenderProgramm\obj\Debug\KalenderProgramm.pdb

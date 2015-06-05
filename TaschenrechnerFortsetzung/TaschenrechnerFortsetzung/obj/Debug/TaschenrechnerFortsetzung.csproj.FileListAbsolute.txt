@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerFortsetzung\TaschenrechnerFortsetzung\bin\Debug\TaschenrechnerFortsetzung.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerFortsetzung\TaschenrechnerFortsetzung\bin\Debug\TaschenrechnerFortsetzung.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerFortsetzung\TaschenrechnerFortsetzung\bin\Debug\TaschenrechnerFortsetzung.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerFortsetzung\TaschenrechnerFortsetzung\obj\Debug\TaschenrechnerFortsetzung.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerFortsetzung\TaschenrechnerFortsetzung\obj\Debug\TaschenrechnerFortsetzung.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerFortsetzung\TaschenrechnerFortsetzung\obj\Debug\TaschenrechnerFortsetzung.pdb

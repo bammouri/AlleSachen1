@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\bla\bla\bin\Debug\bla.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\bla\bla\obj\Debug\bla.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\bla\bla\bin\Debug\bla.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\bla\bla\bin\Debug\bla.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\bla\bla\obj\Debug\bla.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\bla\bla\obj\Debug\bla.pdb

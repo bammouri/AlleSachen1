@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings aneinander Hängen", "Strings aneinander Hängen\Strings aneinander Hängen.csproj", "{E56BD08F-2F65-417A-B582-08D47E0270FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56BD08F-2F65-417A-B582-08D47E0270FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56BD08F-2F65-417A-B582-08D47E0270FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56BD08F-2F65-417A-B582-08D47E0270FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56BD08F-2F65-417A-B582-08D47E0270FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

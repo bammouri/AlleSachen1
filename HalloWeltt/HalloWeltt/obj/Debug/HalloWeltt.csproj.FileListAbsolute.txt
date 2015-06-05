@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\HalloWeltt\HalloWeltt\bin\Debug\HalloWeltt.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\HalloWeltt\HalloWeltt\bin\Debug\HalloWeltt.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\HalloWeltt\HalloWeltt\bin\Debug\HalloWeltt.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\HalloWeltt\HalloWeltt\obj\Debug\HalloWeltt.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\HalloWeltt\HalloWeltt\obj\Debug\HalloWeltt.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\HalloWeltt\HalloWeltt\obj\Debug\HalloWeltt.pdb

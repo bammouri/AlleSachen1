@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Zahlen in Strings\Umwandlung von Zahlen in Strings\bin\Debug\Umwandlung von Zahlen in Strings.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Zahlen in Strings\Umwandlung von Zahlen in Strings\bin\Debug\Umwandlung von Zahlen in Strings.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Zahlen in Strings\Umwandlung von Zahlen in Strings\bin\Debug\Umwandlung von Zahlen in Strings.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Zahlen in Strings\Umwandlung von Zahlen in Strings\obj\Debug\Umwandlung von Zahlen in Strings.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Zahlen in Strings\Umwandlung von Zahlen in Strings\obj\Debug\Umwandlung von Zahlen in Strings.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Umwandlung von Zahlen in Strings\Umwandlung von Zahlen in Strings\obj\Debug\Umwandlung von Zahlen in Strings.pdb

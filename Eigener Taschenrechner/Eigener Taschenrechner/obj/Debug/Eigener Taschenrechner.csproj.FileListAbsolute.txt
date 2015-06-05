@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Eigener Taschenrechner\Eigener Taschenrechner\bin\Debug\Eigener Taschenrechner.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Eigener Taschenrechner\Eigener Taschenrechner\bin\Debug\Eigener Taschenrechner.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Eigener Taschenrechner\Eigener Taschenrechner\bin\Debug\Eigener Taschenrechner.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Eigener Taschenrechner\Eigener Taschenrechner\obj\Debug\Eigener Taschenrechner.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\Eigener Taschenrechner\Eigener Taschenrechner\obj\Debug\Eigener Taschenrechner.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Eigener Taschenrechner\Eigener Taschenrechner\obj\Debug\Eigener Taschenrechner.pdb

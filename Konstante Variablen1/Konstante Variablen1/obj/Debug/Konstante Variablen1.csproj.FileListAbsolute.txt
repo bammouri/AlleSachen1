@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Konstante Variablen1\Konstante Variablen1\bin\Debug\Konstante Variablen1.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Konstante Variablen1\Konstante Variablen1\obj\Debug\Konstante Variablen1.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\Konstante Variablen1\Konstante Variablen1\bin\Debug\Konstante Variablen1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Konstante Variablen1\Konstante Variablen1\bin\Debug\Konstante Variablen1.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Konstante Variablen1\Konstante Variablen1\obj\Debug\Konstante Variablen1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Konstante Variablen1\Konstante Variablen1\obj\Debug\Konstante Variablen1.pdb

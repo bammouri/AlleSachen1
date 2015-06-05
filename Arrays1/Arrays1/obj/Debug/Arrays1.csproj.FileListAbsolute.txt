@@ -1,0 +1,5 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Arrays1\Arrays1\bin\Debug\Arrays1.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Arrays1\Arrays1\bin\Debug\Arrays1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Arrays1\Arrays1\obj\Debug\Arrays1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Arrays1\Arrays1\obj\Debug\Arrays1.pdb

@@ -1,0 +1,6 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\HelloWorld1\HelloWorld1\obj\Debug\HelloWorld1.pdb

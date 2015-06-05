@@ -1,0 +1,12 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerTEST1\TaschenrechnerTEST1\bin\Debug\TaschenrechnerTEST1.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerTEST1\TaschenrechnerTEST1\obj\Debug\TaschenrechnerTEST1.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerTEST1\TaschenrechnerTEST1\bin\Debug\TaschenrechnerTEST1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerTEST1\TaschenrechnerTEST1\bin\Debug\TaschenrechnerTEST1.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerTEST1\TaschenrechnerTEST1\obj\Debug\TaschenrechnerTEST1.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TaschenrechnerTEST1\TaschenrechnerTEST1\obj\Debug\TaschenrechnerTEST1.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\TaschenrechnerTEST2\TaschenrechnerTEST1\bin\Debug\TaschenrechnerTEST1.exe.config
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\TaschenrechnerTEST2\TaschenrechnerTEST1\obj\Debug\TaschenrechnerTEST1.exe
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\TaschenrechnerTEST2\TaschenrechnerTEST1\obj\Debug\TaschenrechnerTEST1.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\TaschenrechnerTEST2\TaschenrechnerTEST1\obj\Debug\TaschenrechnerTEST1.csprojResolveAssemblyReference.cache
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\TaschenrechnerTEST2\TaschenrechnerTEST1\bin\Debug\TaschenrechnerTEST1.exe
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\TaschenrechnerTEST2\TaschenrechnerTEST1\bin\Debug\TaschenrechnerTEST1.pdb

@@ -1,0 +1,5 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\Gerade Zahlen erkennen\Gerade Zahlen erkennen\bin\Debug\Gerade Zahlen erkennen.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\Gerade Zahlen erkennen\Gerade Zahlen erkennen\bin\Debug\Gerade Zahlen erkennen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Gerade Zahlen erkennen\Gerade Zahlen erkennen\bin\Debug\Gerade Zahlen erkennen.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\Gerade Zahlen erkennen\Gerade Zahlen erkennen\obj\Debug\Gerade Zahlen erkennen.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\Gerade Zahlen erkennen\Gerade Zahlen erkennen\obj\Debug\Gerade Zahlen erkennen.pdb
