@@ -39,21 +39,20 @@ namespace YouTubeDownloaderTest
          }
        private void btnDownload_Click(object sender, System.EventArgs e)
         {
-            MessageBox.Show("Hallo");
+            MessageBox.Show("Download wird gestartet... Bitte warten.");
             string[] urls = { "1", "2", "3", "4"};
            
             foreach (string elem in urls)
             {
-
-                MessageBox.Show(" " + elem);
-
+              
             }
-            ExecuteCommandAsync("C:\\Users\\bammouri\\Downloads\\youtube\\youtube-dl --extract-audio --audio-format mp3 " + rtbUrls.Text + urls);
+ 
+            ExecuteCommandAsync("C:\\Users\\bammouri\\Downloads\\youtube\\youtube-dl --extract-audio --audio-format mp3 " + rtbUrls.Text);
             
        }
         private void CleanBtn_Click(object sender, EventArgs e)
         {
-            Ordnertxb.Text = " ";
+            
             rtbUrls.Text = " ";
 
         }
@@ -63,7 +62,7 @@ namespace YouTubeDownloaderTest
             
         }
 
-        private void Ordnerbtn_Click(object sender, EventArgs e)
+        private void neustartBtn_Click(object sender, EventArgs e)
         {
             Application.Restart();
         }

@@ -37,9 +37,7 @@ namespace YouTubeDownloaderTest
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.Ordnertxb = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.Ordnerbtn = new System.Windows.Forms.Button();
+            this.neustartBtn = new System.Windows.Forms.Button();
             this.btnDownload = new System.Windows.Forms.Button();
             this.CleanBtn = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
@@ -96,7 +94,7 @@ namespace YouTubeDownloaderTest
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(12, 253);
+            this.button3.Location = new System.Drawing.Point(238, 212);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 4;
@@ -113,35 +111,19 @@ namespace YouTubeDownloaderTest
             this.label1.TabIndex = 5;
             this.label1.Text = "Gebe hier die URL ein : ";
             // 
-            // Ordnertxb
+            // neustartBtn
             // 
-            this.Ordnertxb.Location = new System.Drawing.Point(202, 255);
-            this.Ordnertxb.Name = "Ordnertxb";
-            this.Ordnertxb.Size = new System.Drawing.Size(229, 20);
-            this.Ordnertxb.TabIndex = 6;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(199, 233);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(68, 13);
-            this.label2.TabIndex = 7;
-            this.label2.Text = "Ziel Ordner : ";
-            // 
-            // Ordnerbtn
-            // 
-            this.Ordnerbtn.Location = new System.Drawing.Point(468, 252);
-            this.Ordnerbtn.Name = "Ordnerbtn";
-            this.Ordnerbtn.Size = new System.Drawing.Size(75, 23);
-            this.Ordnerbtn.TabIndex = 8;
-            this.Ordnerbtn.Text = "Neustart";
-            this.Ordnerbtn.UseVisualStyleBackColor = true;
-            this.Ordnerbtn.Click += new System.EventHandler(this.Ordnerbtn_Click);
+            this.neustartBtn.Location = new System.Drawing.Point(471, 212);
+            this.neustartBtn.Name = "neustartBtn";
+            this.neustartBtn.Size = new System.Drawing.Size(75, 23);
+            this.neustartBtn.TabIndex = 8;
+            this.neustartBtn.Text = "Neustart";
+            this.neustartBtn.UseVisualStyleBackColor = true;
+            this.neustartBtn.Click += new System.EventHandler(this.neustartBtn_Click);
             // 
             // btnDownload
             // 
-            this.btnDownload.Location = new System.Drawing.Point(93, 253);
+            this.btnDownload.Location = new System.Drawing.Point(319, 212);
             this.btnDownload.Name = "btnDownload";
             this.btnDownload.Size = new System.Drawing.Size(81, 23);
             this.btnDownload.TabIndex = 9;
@@ -151,7 +133,7 @@ namespace YouTubeDownloaderTest
             // 
             // CleanBtn
             // 
-            this.CleanBtn.Location = new System.Drawing.Point(549, 253);
+            this.CleanBtn.Location = new System.Drawing.Point(549, 212);
             this.CleanBtn.Name = "CleanBtn";
             this.CleanBtn.Size = new System.Drawing.Size(81, 23);
             this.CleanBtn.TabIndex = 10;
@@ -163,12 +145,10 @@ namespace YouTubeDownloaderTest
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(642, 288);
+            this.ClientSize = new System.Drawing.Size(642, 245);
             this.Controls.Add(this.CleanBtn);
             this.Controls.Add(this.btnDownload);
-            this.Controls.Add(this.Ordnerbtn);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.Ordnertxb);
+            this.Controls.Add(this.neustartBtn);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.pictureBox1);
@@ -195,11 +175,9 @@ namespace YouTubeDownloaderTest
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox tbxAddUrl;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox Ordnertxb;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.RichTextBox rtbUrls;
         private System.Windows.Forms.Button addUrl;
-        private System.Windows.Forms.Button Ordnerbtn;
+        private System.Windows.Forms.Button neustartBtn;
         private System.Windows.Forms.Button btnDownload;
         private System.Windows.Forms.Button CleanBtn;
     }
