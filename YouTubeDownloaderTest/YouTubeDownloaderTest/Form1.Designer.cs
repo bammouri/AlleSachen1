@@ -37,7 +37,6 @@ namespace YouTubeDownloaderTest
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.neustartBtn = new System.Windows.Forms.Button();
             this.btnDownload = new System.Windows.Forms.Button();
             this.CleanBtn = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
@@ -111,19 +110,9 @@ namespace YouTubeDownloaderTest
             this.label1.TabIndex = 5;
             this.label1.Text = "Gebe hier die URL ein : ";
             // 
-            // neustartBtn
-            // 
-            this.neustartBtn.Location = new System.Drawing.Point(471, 212);
-            this.neustartBtn.Name = "neustartBtn";
-            this.neustartBtn.Size = new System.Drawing.Size(75, 23);
-            this.neustartBtn.TabIndex = 8;
-            this.neustartBtn.Text = "Neustart";
-            this.neustartBtn.UseVisualStyleBackColor = true;
-            this.neustartBtn.Click += new System.EventHandler(this.neustartBtn_Click);
-            // 
             // btnDownload
             // 
-            this.btnDownload.Location = new System.Drawing.Point(319, 212);
+            this.btnDownload.Location = new System.Drawing.Point(316, 212);
             this.btnDownload.Name = "btnDownload";
             this.btnDownload.Size = new System.Drawing.Size(81, 23);
             this.btnDownload.TabIndex = 9;
@@ -133,7 +122,7 @@ namespace YouTubeDownloaderTest
             // 
             // CleanBtn
             // 
-            this.CleanBtn.Location = new System.Drawing.Point(549, 212);
+            this.CleanBtn.Location = new System.Drawing.Point(507, 212);
             this.CleanBtn.Name = "CleanBtn";
             this.CleanBtn.Size = new System.Drawing.Size(81, 23);
             this.CleanBtn.TabIndex = 10;
@@ -145,10 +134,9 @@ namespace YouTubeDownloaderTest
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(642, 245);
+            this.ClientSize = new System.Drawing.Size(610, 242);
             this.Controls.Add(this.CleanBtn);
             this.Controls.Add(this.btnDownload);
-            this.Controls.Add(this.neustartBtn);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.pictureBox1);
@@ -177,7 +165,6 @@ namespace YouTubeDownloaderTest
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.RichTextBox rtbUrls;
         private System.Windows.Forms.Button addUrl;
-        private System.Windows.Forms.Button neustartBtn;
         private System.Windows.Forms.Button btnDownload;
         private System.Windows.Forms.Button CleanBtn;
     }

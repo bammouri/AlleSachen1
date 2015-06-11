@@ -16,6 +16,7 @@ namespace YouTubeDownloaderTest
         {
             InitializeComponent();
 
+
         }
         private void button3_Click(object sender, EventArgs e)
         {
@@ -35,38 +36,43 @@ namespace YouTubeDownloaderTest
 
             rtbUrls.Text = tbxAddUrl.Text + "\n" + rtbUrls.Text;
             tbxAddUrl.Text = "";
-           
-         }
-       private void btnDownload_Click(object sender, System.EventArgs e)
+
+        }
+        private void btnDownload_Click(object sender, System.EventArgs e)
         {
             MessageBox.Show("Download wird gestartet... Bitte warten.");
-            string[] urls = { "1", "2", "3", "4"};
-           
+
+            //string[] urls = { "1", "2", "3", "4"};
+            string[] stringSeparators = new string[] { "\n" };
+            string[] urls = rtbUrls.Text.Split(stringSeparators, StringSplitOptions.RemoveEmptyEntries);
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            DialogResult result = fbd.ShowDialog();
+            string path = fbd.SelectedPath;
             foreach (string elem in urls)
             {
-              
+                ExecuteCommandAsync("youtube-dl --extract-audio --audio-format mp3 " + elem + " --output "+path+ "\\%(title)s.%(ext)s");
             }
- 
-            ExecuteCommandAsync("C:\\Users\\bammouri\\Downloads\\youtube\\youtube-dl --extract-audio --audio-format mp3 " + rtbUrls.Text);
-            
-       }
+
+            //ExecuteCommandAsync("C:\\Users\\bammouri\\Downloads\\youtube\\youtube-dl --extract-audio --audio-format mp3 " + rtbUrls.Text);
+
+        }
         private void CleanBtn_Click(object sender, EventArgs e)
         {
-            
+
             rtbUrls.Text = " ";
 
         }
 
         private void rtbUrls_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void neustartBtn_Click(object sender, EventArgs e)
         {
             Application.Restart();
         }
-        
+
         /// <span class="code-SummaryComment"><summary></span>
         /// Executes a shell command synchronously.
         /// <span class="code-SummaryComment"></summary></span>
@@ -133,11 +139,33 @@ namespace YouTubeDownloaderTest
                 // Log the exception
             }
         }
-        
 
-               
-   }
-    } 
+
+
+
+
+
+        private void SucheBtn_Click(object sender, EventArgs e)
+        {
+
+            FolderBrowserDialog fbd = new FolderBrowserDialog();
+            DialogResult result = fbd.ShowDialog();
+            string path = fbd.SelectedPath;
+            
+
+
+
+
+        }
+
+    }
+}
+
+
+
+
+
+     
                          
             
        
